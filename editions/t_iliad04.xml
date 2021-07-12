@@ -19,8 +19,13 @@
   <text>
     <body>
       <div n="4">
-        <l n="title">?</l>
-
+        <l n="title">Δέλτα <persName n="urn:cite2:hmt:pers.v1:pers17">ὁμήρου⁑</persName></l>
+        <l n="1">οἳ δὲ θεοὶ πὰρ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζηνὶ</persName> καθήμενοι ἠγορόωντο,</l>
+        <l n="2">χρυσέῳ ἐν δαπέδῳ: μετὰ δέ σφισι πότνια <persName n="urn:cite2:hmt:pers.v1:pers181">Ἥβη</persName>,</l>
+        <l n="3">νέκταρ ἐοινοχόει: τοὶ δὲ, χρυσέοις δεπάεσσι</l>
+        <l n="4">δειδέχατ' ἀλλήλους <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρώων</rs> πόλϊν εἰσορόωντες:</l>
+        <l n="5">αὐτίκ' ἐπειρᾶτο <persName n="urn:cite2:hmt:pers.v1:pers8">Κρονίδης</persName> ἐρεθιζέμεν <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρην</persName></l>
+        <l n="6">κερτομίοις ἐπέεσσι: παραβλήδην ἀγορεύων:</l>
       </div>
     </body>
     </text>

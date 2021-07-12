@@ -2,3 +2,10 @@
 urn|urn:cite2:hmt:dse.v1:msBil4
 label|Collection of DSE records for Iliad 4 in the British Library, Burney 86
 text|image|surface
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.title|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3416,0.5723,0.4263,0.03998|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.1|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3328,0.6014,0.4081,0.04050|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.2|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3498,0.6283,0.4048,0.03412|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.3|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3542,0.6505,0.3612,0.03033|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.4|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3528,0.6726,0.3720,0.03033|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.5|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3542,0.6931,0.3729,0.03274|urn:cite2:hmt:burney86pages.v1:28v
+urn:cts:greekLit:tlg0012.tlg001.burney86:4.6|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f028v@0.3564,0.7143,0.3533,0.03136|urn:cite2:hmt:burney86pages.v1:28v
