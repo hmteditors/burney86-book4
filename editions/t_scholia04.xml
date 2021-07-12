@@ -103,7 +103,7 @@
 
       <text n="burney86int">
          <body>
-         <div n="ID" type="scholion">
+         <div n="28v_1" type="scholion">
             <div n="lemma">
                <p/>
             </div>
@@ -111,7 +111,8 @@
                <p></p>
             </div>
             <div n="comment">
-               <p>⁑</p>
+               <p>πιθανῶς ἐκ τοῦ κάτωθεν θορύβου εἰς <choice><abbr>οὐνὸν</abbr><expan>οὐρανὸν</expan></choice> τὴν σκηνὴν σεμνύνων μετήγαγεν: ποικίλλων ἅμα τὴν ποίησιν τόποις τε καὶ προσώποις <persName n="urn:cite2:hmt:pers.v1:pers129"><choice><abbr>Ἀλεξάνδ</abbr><expan>Ἀλεξάνδρου</expan></choice></persName> τοὺς λόγους γεγενῆσθαι: τοῖς θεοῖς ηὔξησεν εἰς <choice><abbr>οὐνὸν</abbr><expan>οὐρανὸν</expan></choice> τὴν σκηνὴν,σεμνύνων καὶ ποικίλλων λόγων: ὑπονοεῖν δὲ δεῖ παρὰ τὴν ἁρπαγὴν: ηὔξησε δὲ τὸ ἀγωνιστικὸν τῆς <choice><abbr>ὑποθ</abbr><expan>ὑποθέσεως</expan></choice> τῇ τῶν θεῶν προνοία⁑
+               </p>
             </div>
          </div>
         </body>
