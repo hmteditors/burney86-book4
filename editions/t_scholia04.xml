@@ -374,6 +374,126 @@
             </div>
          </div>
 
+         <div n="29v_1" type="scholion">
+            <div n="lemma">
+               <p>ὠμὸν βεβρώθοις</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.35@ὠμὸν</p>
+            </div>
+            <div n="comment">
+               <p>ηὔξησε τὸ ὑπερβάλλον τῆς γυναικείας κακίας: ὡς ἐν τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.212</ref><q>τοῦ ἐγὼ μέσον ἧπαρ</q></cit>: αὔξεται οὖν ὁ λόγος ἐν τῇ καθ' ἕκαστον ἐξεργασία⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_2" type="scholion">
+            <div n="lemma">
+               <p>ἔρξον ὅπως ἐθέλεις</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.37@ἔρξον</p>
+            </div>
+            <div n="comment">
+               <p>ἵνα μηδὲ αὕτη ἐναντιωθῆ τῇ τῶν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλλήνων</rs> ἄτῃ: ἔρξον ὅπως ἐθέλεις: ὡς θέλεις πρᾶξον: μή πως ἡ <choice><abbr>ἀμφιβολ</abbr><expan>ἀμφιβολία</expan></choice> αὕτη ἐμοὶ καὶ σοὶ πόλεμης γένηται: οἱ δὲ στίζοντες εἰς τὸ νεῖκος, λείπειν φασὶ: τὴν <rs type="waw">διά</rs>: καὶ τὸ γένηται <choice><abbr>ὑποτακ</abbr><expan>ὑποτακτικὸν</expan></choice> ἀντὶ τοῦ γένοιτο ἢ γενέσθω: νεῖκος δὲ παρὰ τὸ εἴκειν⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_3" type="scholion">
+            <div n="lemma">
+               <p>φίλοι ἀνέρες ἐγγεγάασι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.41@φίλοι</p>
+            </div>
+            <div n="comment">
+               <p>ἐνδιατρίβουσι καὶ ἡμεῖς γεγενῆσθαι ἐν <placeName n="urn:cite2:hmt:place.v1:place26">Ῥόδῳ</placeName> φαμέν:</p>
+            </div>
+         </div>
+
+         <div n="29v_4" type="scholion">
+            <div n="lemma">
+               <p>καὶ γὰρ ἐγὼ σοὶ δῶκα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.43@γὰρ</p>
+            </div>
+            <div n="comment">
+               <p>πολλὰ γὰρ παρὰ προαίρεσιν, τῆς ψυχῆς πράττομεν πρὸς τὸν κεχαρισμένον τῶν πέλας: ὡς εἰ ἔλεγεν κατεδεξάμην μὲν ἐγώ: τὰ δὲ τῆς προαιρέσεως οὔ πώ μοι κατένευσεν: καὶ γὰρ ἐγὼ σοὶ δῶκα:: τινὲς ὀρθοτονοῦσι τὸ <rs type="waw">σοί</rs>⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_5" type="scholion">
+            <div n="lemma">
+               <p>ἐυμελίῳ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.47@ἐϋμμελίω</p>
+            </div>
+            <div n="comment">
+               <p>ἢ τοῦ <rs type="waw">ε</rs> συγκοπὴ ἢ <choice><abbr>συναίρε</abbr><expan>συναίρεσις</expan></choice>: ἔστι δὲ ἀντὶ τοῦ <rs type="waw">ἐυμελίου</rs>⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_6" type="scholion">
+            <div n="lemma">
+               <p>δαιτὸς ἐΐσης</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.48@ἐδεύετο</p>
+            </div>
+            <div n="comment">
+               <p>καὶ αὐτοῖς γὰρ ἐμέριζον <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:14.435</ref><q>καὶ <persName n="urn:cite2:hmt:pers.v1:pers104">Ἑρμῆ</persName> Μαινάδος υἱεῖ</q></cit>: καλῶς δὲ προαναγινώσκει νόμον εὐσεβείας: ἵνα δὲ μὴ δοκῇ ἐπ' ὀλίγοις ἀγάλλεσθαι, φησίν τὸ γὰρ λάχομεν γέρας ἡμεῖς⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_7" type="scholion">
+            <div n="lemma">
+               <p>κνίσης τε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.49@κνίσης</p>
+            </div>
+            <div n="comment">
+               <p>ἡ κνῖσα τῇ ἀναθυμιάσει τῆς γῆς ἔοικε τῶν σωμάτων καιομένων:</p>
+            </div>
+         </div>
+
+         <div n="29v_8" type="scholion">
+            <div n="lemma">
+               <p>τὰς διαπέρσαι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.53@τὰς</p>
+            </div>
+            <div n="comment">
+               <p>δείκνυσι τῶν ὀργιζομένων τὸ ἦθος ἀλόγιστον: οἳ πόθω τῶν παρὰ χεῖρα. τῶν μειζόνων ἀμελοῦσιν: διὰ δὲ τοῦ περὶ κῆρι ἐμφαίνει τῶν Τρώων, ὡς αὐτῇ περὶ κῆρι μισοῦντα:</p>
+            </div>
+         </div>
+
+         <div n="29v_9" type="scholion">
+            <div n="lemma">
+               <p>οὐκ ἀτέλεστον</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.57@ἀτέλεστον</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ μὴ ἀτέλεστον: διὰ τί ὁ μὲν <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName> μίαν: ἡ δὲ <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρα</persName> <num value="3">γ</num> φησιν ἔχει πόλης φιλτάτας: ῥητέον δὲ ὅτι εὐπρεπῆ βουλόμενος περιθεῖναι αὐτῇ τὴν αἰτίαν τῆς ὀργῆς ὁ ποιητής, καὶ οὐχ ἣν ὁ <choice><abbr>μῦθ</abbr><expan>μῦθος</expan></choice> ἀναπλάτγει: ὡς ἄρα διὰ τὸ μὴ προτιμηθῆναι τῆς <persName n="urn:cite2:hmt:pers.v1:pers194"><choice><abbr>Ἀφροδτ</abbr><expan>Ἀφροδίτης</expan></choice></persName> ἐπὶ τῇ κρίσει τοῦ κάλλους τοῖς <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρωσὶν</rs> ἐχαλέπαινεν: ἐπίτηδες ταύτας φησὶν <w>αὐτ<unclear>ὴ</unclear>ν</w> τὰς πόλης φιλῖν περὶ ἃς τὸ ἀδίκημα τὸ κατὰ τὴν <persName n="urn:cite2:hmt:pers.v1:pers94"><choice><abbr>Ἑλέ</abbr><expan>Ἑλένην</expan></choice></persName> γέγονεν: <placeName n="urn:cite2:hmt:place.v1:place114">Ἄργος</placeName> τε <placeName n="urn:cite2:hmt:place.v1:place218"><choice><abbr>Σπάρτ</abbr><expan>Σπάρτη</expan></choice></placeName>: σύμψηφα δὲ τούτων κἀκεῖνα: ἐν οἷς αὐτὴν ποιεῖ λαμβάνουσαν τὸν <gap/>στὸν παρὰ τῆς <persName n="urn:cite2:hmt:pers.v1:pers194">Ἀφροδίτης</persName>: ἵνα τῷ <persName n="urn:cite2:hmt:pers.v1:pers8">Διῒ</persName> μᾶλλον οὕτως ἐπέραστος φανείη: οὐ γὰρ ἦν εἰκὸς τὴν δεομένην <choice><abbr>βοηθ</abbr><expan>βοηθείας</expan></choice> τῆς παρ' αὐτῆς: ἵνα τῷ ἰδίῳ ἀνδρὶ <w>ἀρ<unclear>έσ</unclear>ειν</w>, ἀγανακτεῖν ἡττηθεῖσαν ἐπὶ τῇ τοῦ κάλλους κρίσει: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName> μίαν πόλης λέγων φιλεῖν, ἐξαίρει τὴν χάριν: οὐχ' οὕτω γὰρ ὁ ἀπὸ πολλῶν διδούς τι <w><unclear>θα</unclear>υμάζεται</w>: ὡς ὁ ἀπὸ ὀλίγων: ὥστε ἀμφότεροι ῥητορικῶς κατασκευάζουσιν: ἡ μ⸌εν γὰρ, πολλὰς ἀντὶ μιᾶς προήσεσθαί φησιν: ὁ δὲ, τὴν μίαν: ἣν καὶ μόνην <gap/> χαριεῖσθαι⁑</p>
+            </div>
+         </div>
+
+         <div n="29v_10" type="scholion">
+            <div n="lemma">
+               <p>καὶ γὰρ ἐγὼ θεός εἰμι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.58@γὰρ</p>
+            </div>
+            <div n="comment">
+               <p>ἔντεχνον τὸ σχῆμα: τὰ γὰρ <gap/>ς δίκαια δι' ὅπερ ὀφείλει τιμῆς τυγχάνειν ἐπὶ τῆς περὶ τὸν ἄνδρα: δόξης λαμβάνει προσαγομένη τὸν θεὸν λεληθότως⁑</p>
+            </div>
+         </div>
+
         </body>
       </text>
 
