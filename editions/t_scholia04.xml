@@ -494,6 +494,129 @@
             </div>
          </div>
 
+         <div n="30r_1" type="scholion">
+            <div n="lemma">
+               <p>κέκλημαι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.61@κέκλημαι</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ ἔστι τελεία εἰς τὸ κέκλημαι: φησὶ διότι σου εἰμι γυνὴ τοῦ πάντων ἀνάσσοντος: ἡδὺ δὲ τὸ τῆς ἐξαλλαγῆς: ἔδει γὰρ τῶν πάντων βασιλέως εἰπεῖν⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_2" type="scholion">
+            <div n="lemma">
+               <p>σοὶ μὲν ἐγώ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.63@σοὶ</p>
+            </div>
+            <div n="comment">
+               <p>πιθανῶς προτέραν ἔταξεν τὴν ἰδίαν χάριν ὡς προκατάρχουσα καὶ οὐκ ἀμειβομένη⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_3" type="scholion">
+            <div n="lemma">
+               <p>πειρᾶν δ' ὥς κεν <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῶες</rs></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ ἀναγκάζου ἐπιορκεῖν <persName n="urn:cite2:hmt:pers.v1:pers216">Πάνδαρον</persName>, ἀλλὰ πειρῶνται εἰς πλείω τε ἁμαρτίαν προκαλοῦνται <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῶας</rs>: ὅπως ἀξίαν τίσωσι δίκην: ἤδη γὰρ παρέβη <persName n="urn:cite2:hmt:pers.v1:pers129">Ἀλέξανδρος</persName>: λέγων <q><cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.440</ref>κεῖνον δ' αὖτις ἐγώ</cit></q>⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_4" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>ὑπερκύδαντας:μεγάλως γαυριάσαντας ἐπὶ Μενελάου νίκῃ. μέγιστον δὲ πρὸς εὐσέβειαν προθεῖσθαι Τροίαν διὰ τὴν παράβασιν τῶν ὅρκων · καὶ Ὀδυσσείας τὸ συνεκτικὸν ἡ κατὰ Ποσειδῶνος βλασφημία. |ὑπερκύδαντας παρὰ τὸ κῦδος κύδας καὶ ἐν συνθέσει · ἢ μεταπέπλασται ἀπὸ τῆς  ὑπερκύδαντος .⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_5" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>οἷον δ 'ἀστέρα  —————— θάμβος δ 'ἔχεν εἰσορόωντας:τούτους διᾴττοντας καλοῦσιν. δοκοῦσι δὲ ἀπὸ συστροφῆς ἀέρος γίνεσθαι · ὅθεν καὶ ἀνέμους δηλοῦσιν. σπινθηρίζουσι δὲ καὶ πρὶν εἰς γῆν πεσεῖν ψυχροτέρῳ ἀέρι λύονται.AT| ἐν ᾧ δὲ ταραττόμενοι σκοποῦσι περὶ τοῦ, τέως λανθάνει βαλὼν ὁ τοξότης.⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_6" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>κὰδ δ 'ἔθορ' ἐς μέσσον · θάμβος δ 'ἔχεν εἰσορόωντας:τὸ ἐνεργὲς καὶ σφοδρὸν τῆς θεοῦ ἡ πρόθεσις δηλοῖ. thedull δὲ οὐδετέρως παρ 'Ὁμήρῳ, Σιμωνίδης δὲ (fr. 115 p.) ἀρσενικῶς.⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_7" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>καὶ φύλοπις αἰνή / ἔσσεται: τελείαν εἰς τὸ ἔσσεται, φησὶ Νικάνωρ, εἰ καὶ ἀπατᾷ ὑ ὑπόκρισις.⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_8" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>ἡ δ 'ἀνδρὶ ἰκέλη: ἔπεσε μὲν εἰς τὸ πλῆθος τῶν Τρώων ὡς ἀστήρ, ἀνδρὶ δὲ εἰκασθεῖσα Πάνδαρον ζητεῖ.⁑</p>
+            </div>
+         </div>
+
+         <div n="30r_9" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>⁑</p>
+            </div>
+         </div>
+
+
+         <div n="30r_10" type="scholion">
+            <div n="lemma">
+               <p></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+            </div>
+            <div n="comment">
+               <p>Λαοδόκῳ Ἀντηνορίδῃ κρατερῷ αἰχμητῇ: καλῶς ὁ τοῦ φιλοξένου ἀνδρὸς παῖς Λαοδόκος καλεῖται. | καλῶς δὲ τούτῳ εἴκασται· Ἀντήνορος γὰρ ὢν παῖς καὶ παραβὰς νόμον προξενίας καὶ τοῦτον θέλει παραβῆναι, νόμον σπονδῶν· εἰ γὰρ ἕτερος ἦν ὁ συμβουλεύων, ἔφη ἂν ὁ Πάνδαρος·‘Διὰ τί μὴ σὺ παραβήσῃ τοὺς ὅρκους;’⁑</p>
+            </div>
+         </div>
+      
+
+
         </body>
       </text>
 
