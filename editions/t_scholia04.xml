@@ -523,22 +523,22 @@
                <p>πειρᾶν δ' ὥς κεν <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῶες</rs></p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.66@πειρᾶν</p>
             </div>
             <div n="comment">
-               <p>οὐκ ἀναγκάζου ἐπιορκεῖν <persName n="urn:cite2:hmt:pers.v1:pers216">Πάνδαρον</persName>, ἀλλὰ πειρῶνται εἰς πλείω τε ἁμαρτίαν προκαλοῦνται <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῶας</rs>: ὅπως ἀξίαν τίσωσι δίκην: ἤδη γὰρ παρέβη <persName n="urn:cite2:hmt:pers.v1:pers129">Ἀλέξανδρος</persName>: λέγων <q><cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.440</ref>κεῖνον δ' αὖτις ἐγώ</cit></q>⁑</p>
+               <p>οὐκ ἀναγκάζου ἐπιορκεῖν <persName n= "urn:cite2:hmt:pers.v1:pers216"><choice><abbr>Πάνδ</abbr><expan>Πάνδαρον</expan></choice></persName>, ἀλλὰ πειρωνται εἰς πλείω τε ἁμαρτίαν προκαλοῦνται  <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῷας</rs>: ὅπως ἀξίαν τίσωσι δίκην: ἤδη γὰρ παρέβη <persName n="urn:cite2:hmt:pers.v1:pers129"><choice><abbr>Ἀλέξανδ</abbr><expan>Ἀλέξανδρος</expan></choice></persName>: λέγων <cit><ref>urn:cts:greekLit:tlg0012.tlg001:3.440</ref><q>κεῖνον δ' αὖτις ἐγώ</q></cit></p>
             </div>
          </div>
 
          <div n="30r_4" type="scholion">
             <div n="lemma">
-               <p></p>
+               <p>ὑπερκύδαντας</p>
             </div>
             <div n="ref">
                <p>urn:cts:greekLit:tlg0012.tlg001.burney86:4.@</p>
             </div>
             <div n="comment">
-               <p>ὑπερκύδαντας:μεγάλως γαυριάσαντας ἐπὶ Μενελάου νίκῃ. μέγιστον δὲ πρὸς εὐσέβειαν προθεῖσθαι Τροίαν διὰ τὴν παράβασιν τῶν ὅρκων · καὶ Ὀδυσσείας τὸ συνεκτικὸν ἡ κατὰ Ποσειδῶνος βλασφημία. |ὑπερκύδαντας παρὰ τὸ κῦδος κύδας καὶ ἐν συνθέσει · ἢ μεταπέπλασται ἀπὸ τῆς  ὑπερκύδαντος .⁑</p>
+               <p>μεγάλως γαυριάσαντας ἐπὶ τῇ <persName><choice><abbr>Μενελά</abbr><expan>Μενελάου</expan></choice></persName> νίκῃ: μέγιστον δὲ πρὸς εὐσέβειαν προθεῖσθαι <placeName n="urn:cite2:hmt:place.v1:place6">Τροίαν</placeName> διὰ τὴν παράβασιν τῶν ὅρκων: καὶ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσείας</persName> τὸ συνεκτικὸν ἡ κατὰ Ποσειδῶνος βλασφημία. |ὑπερκύδαντας παρὰ τὸ κῦδος κύδας καὶ ἐν συνθέσει · ἢ μεταπέπλασται ἀπὸ τῆς  ὑπερκύδαντος .⁑</p>
             </div>
          </div>
 
