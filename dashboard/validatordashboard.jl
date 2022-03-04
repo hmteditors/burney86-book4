@@ -30,7 +30,6 @@ app.layout = html_div() do
     dcc_markdown() do 
         """*Dashboard version*: **$(DASHBOARD_VERSION)**. 
 
-        Running with repo $(r)
         """
     end,
     html_h1("MID validating dashboard"),
